@@ -1,0 +1,3 @@
+C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Source\eternal_chase\eternal_chase.Build.cs
+C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Source\eternal_chase.Target.cs
+C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Source\eternal_chaseEditor.Target.cs

@@ -1,0 +1,23 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-eternal_chase.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\eternal_chaseEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chase.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseGameMode.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseHud.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chasePawn.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseWheelFront.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseWheelRear.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chase.init.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseGameMode.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseHud.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chasePawn.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseWheelFront.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\eternal_chaseWheelRear.gen.cpp.obj"
+"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\PCLaunch.rc.res"
+/OUT:"C:\Users\seanf\Documents\Unreal Projects\eternal-chase-game\eternal_chase\Intermediate\Build\Win64\UE4Editor\Development\eternal_chase\UE4Editor-eternal_chase.lib"
